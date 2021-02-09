@@ -7,6 +7,7 @@ export default {
 
   whiteColor: "#fff",
   blackColor: "#0b0b0b",
+  darkGreyColor: "rgb(20,20,20)",
   greyColor: "#777",
 
   radius: "4px",
